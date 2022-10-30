@@ -13,8 +13,14 @@ I am a 3rd year CSE undergraduate student at Dayananda Sagar College Of Engineer
 
 -------------------------------------------------------------------------------------------------------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NAGARAJ08&show_icons=true&theme=tokyonight)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NAGARAJ08&show_icons=true)]()
+### Most used language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&langs_count=8)]()
+
+
+
 <!--
 **NAGARAJ08/NAGARAJ08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
