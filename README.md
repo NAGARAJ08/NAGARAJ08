@@ -16,8 +16,9 @@ I am a 3rd year CSE undergraduate student at Dayananda Sagar College Of Engineer
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NAGARAJ08&show_icons=true)]()
-### Most used language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&langs_count=8)]()
+<!--
+ ### Most used language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&langs_count=8)]() -->
 
 
 
