@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm NAGARAJ K
 
 ### About Me
-I am a 3rd year CSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore! My interest lies in web development, AI/ML and computer vision and have been workingon these fields for quite sometime.
+I am Computer Science undergraduate student at Dayananda Sagar College Of Engineering, Bangalore! My interest lies in web development, AI/ML and computer vision and have been working on these fields for quite sometime.
 
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=NAGARAJ08.NAGARAJ08)
 [![Github](https://img.shields.io/github/followers/NAGARAJ08?label=Follow&style=social)](https://github.com/NAGARAJ08)-->
