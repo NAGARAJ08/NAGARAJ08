@@ -54,7 +54,7 @@ I am Computer Science undergraduate student at Dayananda Sagar College Of Engine
 <!--
  ### Most used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&langs_count=8)]() -->
-
+![](https://visitor-badge.laobi.icu/badge?page_id=NAGARAJ08.NAGARAJ08)
 
 
 <!--
