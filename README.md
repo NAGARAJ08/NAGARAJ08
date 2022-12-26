@@ -49,7 +49,7 @@ I am Computer Science undergraduate student at Dayananda Sagar College Of Engine
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NAGARAJ08&show_icons=true)]()-->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NAGARAJ08&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NAGARAJ github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NAGARAJ08&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NAGARAJ github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&langs_count=8&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--
  ### Most used language
