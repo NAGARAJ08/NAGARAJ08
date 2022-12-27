@@ -51,6 +51,7 @@ I am Computer Science undergraduate student at Dayananda Sagar College Of Engine
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NAGARAJ08&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NAGARAJ github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&langs_count=8&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NAGARAJ08&theme=flag-india)](https://git.io/streak-stats)
 <!--
  ### Most used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&langs_count=8)]() -->
