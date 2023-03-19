@@ -6,7 +6,7 @@ I am Computer Science undergraduate student at Dayananda Sagar College Of Engine
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=NAGARAJ08.NAGARAJ08)
 [![Github](https://img.shields.io/github/followers/NAGARAJ08?label=Follow&style=social)](https://github.com/NAGARAJ08)-->
 ------------------------------------------------------------------------------------------------------------------
-
+<!--
 ## 🛠️ My Skills
 
 
@@ -45,12 +45,12 @@ I am Computer Science undergraduate student at Dayananda Sagar College Of Engine
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)&nbsp;
 
 
-
+ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 |[![Nagaraj github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NAGARAJ08&show_icons=true&random=&randomss524272)]() |![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NAGARAJ08&langs_count=8&random=&randomss524272&layout=compact&theme=buefy&hide_border=true") |
 | ------------- | ------------- |
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NAGARAJ08&theme=flag-india)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=NAGARAJ08&theme=flag-india)](https://git.io/streak-stats) -->
 <!--
  ### Most used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&langs_count=8)]() -->
