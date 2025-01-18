@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm NAGARAJ K
 
 ### About Me
-I am Computer Science undergraduate student at Dayananda Sagar College Of Engineering, Bangalore!.
+I am SDE currently working at a fintech.
 
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=NAGARAJ08.NAGARAJ08)
 [![Github](https://img.shields.io/github/followers/NAGARAJ08?label=Follow&style=social)](https://github.com/NAGARAJ08)-->
