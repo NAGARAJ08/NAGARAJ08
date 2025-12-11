@@ -48,6 +48,11 @@ I am SDE currently working at a fintech.
  -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<!-- ![GitHub Card](https://githubcard.com/NAGARAJ08.svg?d=2EoqVvCH&nocache=1) -->
+
+![GitHub Card](https://githubcard.com/NAGARAJ08.svg?d=ofJAecMd&nocache=1)
+
 | [![Nagaraj github stats](https://github-readme-stats.vercel.app/api?username=NAGARAJ08&show_icons=true&theme=default)](https://github.com/NAGARAJ08) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&layout=compact&theme=buefy&hide_border=true&langs_count=10) |
 | --- | --- |
 
