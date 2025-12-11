@@ -53,8 +53,18 @@ I am SDE currently working at a fintech.
 
 ![GitHub Card](https://githubcard.com/NAGARAJ08.svg?d=ofJAecMd&nocache=1)
 
+
+<!-- PREV
+![GitHub Card](https://githubcard.com/NAGARAJ08.svg?d=ofJAecMd&nocache=1)
+
 | [![Nagaraj github stats](https://github-readme-stats.vercel.app/api?username=NAGARAJ08&show_icons=true&theme=default)](https://github.com/NAGARAJ08) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGARAJ08&layout=compact&theme=buefy&hide_border=true&langs_count=10) |
 | --- | --- |
+
+---
+![](https://komarev.com/ghpvc/?username=your-github-NAGARAJ08&style=flat-square)
+
+PREV-->
+
 
 <!--
 |[![Nagaraj github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NAGARAJ08&show_icons=true&random=&randomss524272)]() |![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NAGARAJ08&langs_count=8&random=&randomss524272&layout=compact&theme=buefy&hide_border=true") |
@@ -68,7 +78,7 @@ I am SDE currently working at a fintech.
 
 
 ---
-![](https://komarev.com/ghpvc/?username=your-github-NAGARAJ08&style=flat-square)
+
 
 <!--
 **NAGARAJ08/NAGARAJ08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
